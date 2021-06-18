@@ -1,6 +1,6 @@
 A simple task manager app using RESTful APIs to show CRUD (Create/Read/Update/Delete) operations in a simple,elegant and meaningful way.
 
-The app is using Node.js and Express.js as the backend and EJS templating system for the frontend.
+The app is using Node.js and Express.js as the backend and custom HTML and CSS written from scratch for the frontend.
 
 For trying it out on your systems you need a MongoDB Atlas account. Create it here :- [MongoDB Atlas](https://www.google.com/aclk?sa=l&ai=DChcSEwjezdeV4qHxAhVPt5YKHVikCCIYABAAGgJ0bA&ae=2&sig=AOD64_1D_LZ3MnXC7Vj594rYqFyB7sfNKA&q&nis=1&adurl&ved=2ahUKEwimg9CV4qHxAhVS4nMBHf1qCn0Q0Qx6BAgCEAE)
 
